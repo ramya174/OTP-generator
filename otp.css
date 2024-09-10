@@ -1,0 +1,19 @@
+#userInput{
+    margin-left: 585px;
+}
+
+.head{
+    color: blueviolet;
+    font-style: italic;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+#get{
+    width: 100px;
+}
+
+.main{
+    background-color: black;
+    height: 100vh;
+}
